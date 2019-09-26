@@ -1,4 +1,6 @@
-;[
+// https://www.pro-football-reference.com/teams/nwe/2019_roster.htm
+
+export default [
   {
     name: "Jake Bailey",
     number: 7,

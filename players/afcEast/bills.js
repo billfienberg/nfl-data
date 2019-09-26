@@ -1,4 +1,5 @@
-// www.pro-football-reference.com/teams/buf/2019_roster.htm
+// https://www.pro-football-reference.com/teams/buf/2019_roster.htm
+
 export default [
   { birthDate: "1983-05-31", name: "Lorenzo Alexander", number: 57, weight: 245, height: 73 },
   { birthDate: "1991-02-16", name: "Maurice Alexander", number: 41, weight: 220, height: 74 },
