@@ -72,13 +72,6 @@ export default [
     birthDate: "1992-03-20",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Marcus Cannon",
     number: 61,
     weight: 335,
@@ -147,13 +140,6 @@ export default [
     weight: 335,
     height: 76,
     birthDate: "1994-12-13",
-  },
-  {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
   },
   {
     name: "James Ferentz",
@@ -226,13 +212,6 @@ export default [
     birthDate: "1995-11-17",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Jakob Johnson",
     number: 47,
     weight: 255,
@@ -301,13 +280,6 @@ export default [
     weight: 330,
     height: 76,
     birthDate: "1988-09-29",
-  },
-  {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
   },
   {
     name: "Gunner Olszewski",

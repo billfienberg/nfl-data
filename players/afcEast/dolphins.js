@@ -72,13 +72,6 @@ export default [
     birthDate: "1994-12-02",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Jesse Davis",
     number: 77,
     weight: 325,
@@ -147,13 +140,6 @@ export default [
     weight: 171,
     height: 67,
     birthDate: "1992-09-30",
-  },
-  {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
   },
   {
     name: "Matt Haack",
@@ -226,13 +212,6 @@ export default [
     birthDate: "1990-07-18",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Patrick Laird",
     number: 42,
     weight: 205,
@@ -301,13 +280,6 @@ export default [
     weight: 245,
     height: 76,
     birthDate: "1994-05-28",
-  },
-  {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
   },
   {
     name: "Isaiah Prince",

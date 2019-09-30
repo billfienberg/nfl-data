@@ -122,14 +122,6 @@ export default [
     team: "Browns",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "BirthDate",
-    team: "Browns",
-  },
-  {
     name: "KhaDarel Hodge",
     number: 12,
     weight: 205,
@@ -250,14 +242,6 @@ export default [
     team: "Browns",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "BirthDate",
-    team: "Browns",
-  },
-  {
     name: "David Njoku",
     number: 85,
     weight: 246,
@@ -375,14 +359,6 @@ export default [
     weight: 314,
     height: 76,
     birthDate: "11/21/1994",
-    team: "Browns",
-  },
-  {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "BirthDate",
     team: "Browns",
   },
   {

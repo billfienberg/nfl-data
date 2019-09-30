@@ -107,13 +107,6 @@ export default [
     birthDate: "1995-01-27",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Clayton Fejedelem",
     number: 42,
     weight: 205,
@@ -219,13 +212,6 @@ export default [
     birthDate: "1995-06-29",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Tony McRae",
     number: 29,
     weight: 185,
@@ -329,13 +315,6 @@ export default [
     weight: 260,
     height: 78,
     birthDate: "1993-01-14",
-  },
-  {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
   },
   {
     name: "Nick Vigil",

@@ -212,13 +212,6 @@ export default [
     birthDate: "1987-03-27",
   },
   {
-    name: "Player ",
-    number: null,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
-  },
-  {
     name: "Daylon Mack",
     number: 94,
     weight: 340,
