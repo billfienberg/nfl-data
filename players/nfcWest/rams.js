@@ -191,6 +191,13 @@ export default [
     birthDate: "1995-03-21",
   },
   {
+    name: "John Kelly",
+    number: 42,
+    weight: 205,
+    height: 70,
+    birthDate: "1996-10-04",
+  },
+  {
     name: "Cooper Kupp",
     number: 18,
     weight: 208,
@@ -240,13 +247,6 @@ export default [
     birthDate: "1994-02-01",
   },
   {
-    name: "Joseph Noteboom",
-    number: 70,
-    weight: 321,
-    height: 77,
-    birthDate: "1995-06-19",
-  },
-  {
     name: "Ogbonnia Okoronkwo",
     number: 45,
     weight: 253,
@@ -259,13 +259,6 @@ export default [
     weight: 242,
     height: 75,
     birthDate: "1997-07-09",
-  },
-  {
-    name: "Marcus Peters",
-    number: 22,
-    weight: 195,
-    height: 72,
-    birthDate: "1993-01-09",
   },
   {
     name: "Taylor Rapp",
@@ -300,7 +293,7 @@ export default [
     number: 33,
     weight: 200,
     height: 71,
-    birthDate: "2019-05-17",
+    birthDate: "1995-05-17",
   },
   {
     name: "Coleman Shelton",
@@ -329,13 +322,6 @@ export default [
     weight: 189,
     height: 73,
     birthDate: "1994-08-16",
-  },
-  {
-    name: "Nsimba Webster",
-    number: 14,
-    weight: 180,
-    height: 70,
-    birthDate: "1996-01-27",
   },
   {
     name: "Eric Weddle",
@@ -371,5 +357,26 @@ export default [
     weight: 191,
     height: 72,
     birthDate: "1987-12-27",
+  },
+  {
+    name: "Jalen Ramsey",
+    number: 666,
+    weight: 208,
+    height: 73,
+    birthDate: "1994-10-24",
+  },
+  {
+    name: "Austin Corbett",
+    number: 63,
+    weight: 306,
+    height: 76,
+    birthDate: "9/5/1995",
+  },
+  {
+    name: "Kenny Young",
+    number: 40,
+    weight: 234,
+    height: 73,
+    birthDate: "1994-11-15",
   },
 ]

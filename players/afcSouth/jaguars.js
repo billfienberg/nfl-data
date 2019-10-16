@@ -275,13 +275,6 @@ export default [
     birthDate: "1996-10-02",
   },
   {
-    name: "Jalen Ramsey",
-    number: 20,
-    weight: 208,
-    height: 73,
-    birthDate: "1994-10-24",
-  },
-  {
     name: "Will Richardson",
     number: 76,
     weight: 303,

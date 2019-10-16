@@ -366,10 +366,10 @@ export default [
     birthDate: "1984-09-15",
   },
   {
-    name: "Kenny Young",
-    number: 40,
-    weight: 234,
-    height: 73,
-    birthDate: "1994-11-15",
+    name: "Marcus Peters",
+    number: 666,
+    weight: 195,
+    height: 72,
+    birthDate: "1993-01-09",
   },
 ]
