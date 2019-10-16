@@ -298,9 +298,9 @@ export default [
   {
     name: "Nick Scott",
     number: 33,
-    weight: null,
-    height: null,
-    birthDate: "undefined-0NaN-0NaN",
+    weight: 200,
+    height: 71,
+    birthDate: "2019-05-17",
   },
   {
     name: "Coleman Shelton",
