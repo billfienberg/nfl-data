@@ -289,13 +289,6 @@ export default [
     birthDate: "1991-09-10",
   },
   {
-    name: "Emmanuel Sanders",
-    number: 10,
-    weight: 180,
-    height: 71,
-    birthDate: "1987-03-17",
-  },
-  {
     name: "Austin Schlottmann",
     number: 71,
     weight: 300,

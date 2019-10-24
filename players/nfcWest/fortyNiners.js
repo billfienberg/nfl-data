@@ -372,4 +372,18 @@ export default [
     height: 80,
     birthDate: "1987-06-24",
   },
+  {
+    name: "Emmanuel Sanders",
+    number: 17,
+    weight: 180,
+    height: 71,
+    birthDate: "1987-03-17",
+  },
+  {
+    name: "Jalen Hurd",
+    number: 14,
+    weight: 229,
+    height: 76,
+    birthDate: "1996-01-23",
+  },
 ]
